@@ -8,5 +8,5 @@
 - Montes, Aldana Stefanía
 - Sánchez, Karla Gimena
 
-## Segundo commit Diego Ruiz
+## Segundo commit Espidola, Miguel Angel
 
