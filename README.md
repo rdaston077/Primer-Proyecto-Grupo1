@@ -7,6 +7,7 @@
 - Hessling, Noelia Elizabeth
 - Montes, Aldana Stefanía
 - Sánchez, Karla Gimena
+- Martínez, Gastón Nahuel
 
 ## Segundo commit Diego Ruiz
 
